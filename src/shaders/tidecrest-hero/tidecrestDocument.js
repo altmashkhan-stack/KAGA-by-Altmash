@@ -1,0 +1,1 @@
+export function buildTidecrestDocument(variant) { return undefined; }

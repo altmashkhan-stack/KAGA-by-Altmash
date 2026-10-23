@@ -1,0 +1,1 @@
+export declare function buildMeridianDocument(variant?: any, presentation?: any): string | undefined;

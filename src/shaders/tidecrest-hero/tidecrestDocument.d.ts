@@ -1,0 +1,1 @@
+export declare function buildTidecrestDocument(variant?: any): string | undefined;

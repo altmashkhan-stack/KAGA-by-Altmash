@@ -1,0 +1,1 @@
+export function buildAsciiFieldDocument(variant) { return undefined; }

@@ -1,0 +1,1 @@
+export function buildSandboxedPageDocument(src: string, opts?: any): string | undefined { return src; }

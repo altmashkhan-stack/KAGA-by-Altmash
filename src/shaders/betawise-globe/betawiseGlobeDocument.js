@@ -1,0 +1,1 @@
+export function buildBetawiseGlobeDocument(variant) { return undefined; }
