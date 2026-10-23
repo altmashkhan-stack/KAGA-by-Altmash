@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏯 KAGA —  (Kage no Michi)
+# 🏯 KAGA — by Altmash
 ### *"Where stillness reveals the unseen."*
 
 **An immersive 3D web experience — a virtual night walk through the hidden mountain temples of Kyoto.**
@@ -164,8 +164,8 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-### *影の道 — The Shadow Path*
-**© 2026 Altmash — Kage no Michi Creation**
+  The Shadow Path*
+**© 2026 Altmash — Kage Altmash Creation**
 
 ⭐ If this experience moved you, consider giving the repository a star!
 
