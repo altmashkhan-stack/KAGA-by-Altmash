@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏯 KAGA — by Altmash
+# 🏯 KAGA — by Altmash 🚀
 ### *"Where stillness reveals the unseen."*
 
 **An immersive 3D web experience — a virtual night walk through the hidden mountain temples of Kyoto.**
