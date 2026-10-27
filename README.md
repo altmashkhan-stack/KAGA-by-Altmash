@@ -111,7 +111,7 @@ Then open `http://localhost:3000` in your browser.
 
 The project is live and hosted via **GitHub Pages**:
 
-🔗 **https://altmashkhan-stack.github.io/KAGA-by-Altmash/**
+🔗 **https://kaga-six.vercel.app/**
 
 ---
 
