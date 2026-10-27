@@ -11,7 +11,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#-license)
 
-[🔗 Live Experience](https://altmashkhan-stack.github.io/KAGA-by-Altmash/) · [🐙 Repository](https://github.com/altmashkhan-stack/KAGA-by-Altmash) · [🐛 Report Bug](https://github.com/altmashkhan-stack/KAGA-by-Altmash/issues)
+[🔗 Live Experience](https://kaga-six.vercel.app/) · [🐙 Repository](https://github.com/altmashkhan-stack/KAGA-by-Altmash) · [🐛 Report Bug](https://github.com/altmashkhan-stack/KAGA-by-Altmash/issues)
 
 </div>
 
